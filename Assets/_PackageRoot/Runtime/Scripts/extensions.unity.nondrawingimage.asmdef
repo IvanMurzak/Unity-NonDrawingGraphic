@@ -1,0 +1,14 @@
+{
+    "name": "extensions.unity.nondrawingimage",
+    "rootNamespace": "Extensions.Unity",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

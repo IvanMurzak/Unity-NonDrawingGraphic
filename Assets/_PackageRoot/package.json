@@ -1,9 +1,10 @@
 {
-    "name": "your.own.package",
-    "displayName": "Your own package",
+    "name": "extensions.unity.nondrawinggraphic",
+    "displayName": "Non Drawing Graphic",
+    "author": { "name": "Ivan Murzak", "url": "https://github.com/IvanMurzak" },
     "version": "1.0.0",
     "unity": "2019.2",
-    "description": "Some description",
+    "description": "Unity UI component which doesn't have drawing event at all. But still can receive click events. More optimized to have something invisible and clickable in Unity UI.",
 	"dependencies": {
       
     }
