@@ -16,4 +16,6 @@ When you package is distributed, you can install it into any Unity project.
 
 - [Install OpenUPM-CLI](https://github.com/openupm/openupm-cli#installation)
 - Open command line in Unity project folder
-- `openupm add extensions.unity.nondrawinggraphic`
+```
+openupm add extensions.unity.nondrawinggraphic
+```
