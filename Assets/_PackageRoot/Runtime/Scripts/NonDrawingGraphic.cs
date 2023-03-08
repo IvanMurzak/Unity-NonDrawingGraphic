@@ -4,6 +4,7 @@ using UnityEngine.UI;
 namespace Extensions.Unity
 {
     // Original reference: https://answers.unity.com/questions/1091618/ui-panel-without-image-component-as-raycast-target.html
+    [RequireComponent(typeof(CanvasRenderer))]
     public class NonDrawingGraphic : Graphic
     {
         public override void SetMaterialDirty() { return; }
