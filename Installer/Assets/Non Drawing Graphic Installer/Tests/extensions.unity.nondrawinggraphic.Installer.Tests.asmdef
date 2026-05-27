@@ -1,0 +1,22 @@
+{
+    "name": "extensions.unity.nondrawinggraphic.Installer.Tests",
+    "rootNamespace": "extensions.unity.nondrawinggraphic.Installer.Tests",
+    "references": [
+        "extensions.unity.nondrawinggraphic.Installer"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

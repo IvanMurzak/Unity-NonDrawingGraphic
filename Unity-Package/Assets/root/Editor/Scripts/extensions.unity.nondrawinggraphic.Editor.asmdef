@@ -1,0 +1,18 @@
+{
+    "name": "extensions.unity.nondrawinggraphic.Editor",
+    "rootNamespace": "Extensions.Unity",
+    "references": [
+        "extensions.unity.nondrawinggraphic.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
