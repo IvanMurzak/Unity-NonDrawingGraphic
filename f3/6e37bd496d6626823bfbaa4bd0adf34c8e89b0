@@ -1,0 +1,41 @@
+"Installer/Assets/Non Drawing Graphic Installer/Tests/Files/scopes_partial_2.json"
+  s_5d880819cb1fc0::t_1e8ecca6df06ca 24
+Unity-Package/Assets/root/package.json
+  s_5d880819cb1fc0::t_c5273a55f687ae 1-27
+"Installer/Assets/Non Drawing Graphic Installer/Installer.cs"
+  s_5d880819cb1fc0::t_a1e0e79d544841 19
+Unity-Package/Packages/manifest.json
+  s_5d880819cb1fc0::t_ea6afe9ad1ff90 1-43
+"Installer/Assets/Non Drawing Graphic Installer/Tests/Files/Correct/correct_manifest.json"
+  s_5d880819cb1fc0::t_e551856af21623 24
+"Installer/Assets/Non Drawing Graphic Installer/Tests/Files/scopes_partial_1.json"
+  s_5d880819cb1fc0::t_1270ed9c8135e4 24
+"Installer/Assets/Non Drawing Graphic Installer/Tests/Files/scopes_partial_3.json"
+  s_5d880819cb1fc0::t_5eeb5a0ec4303f 24
+Unity-Package/Assets/root/Editor/Scripts/extensions.unity.nondrawinggraphic.Editor.asmdef
+  s_5d880819cb1fc0::t_685af75429ef4c 1-18
+Unity-Package/Assets/root/README.md
+  s_5d880819cb1fc0::t_d3dee711746cc5 1-50
+Unity-Package/Assets/root/Runtime/extensions.unity.nondrawinggraphic.Runtime.asmdef
+  s_5d880819cb1fc0::t_d279a813fc4225 1-14
+"Installer/Assets/Non Drawing Graphic Installer/Installer.Manifest.cs"
+  s_5d880819cb1fc0::t_08a802e8bda2c3 35
+"Installer/Assets/Non Drawing Graphic Installer/Tests/Files/scopes_partial_5.json"
+  s_5d880819cb1fc0::t_96aef9b23d661f 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "f36e37bd496d6626823bfbaa4bd0adf34c8e89b0",
+  "prompts": {},
+  "sessions": {
+    "s_5d880819cb1fc0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0bda062b-b787-49fc-8c25-2221ccb4e592",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ivan Murzak <Ivan.D.Murzak@gmail.com>"
+    }
+  }
+}
