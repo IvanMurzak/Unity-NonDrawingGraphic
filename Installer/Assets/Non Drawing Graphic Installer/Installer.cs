@@ -16,7 +16,7 @@ namespace extensions.unity.nondrawinggraphic.Installer
     public static partial class Installer
     {
         public const string PackageId = "extensions.unity.nondrawinggraphic";
-        public const string Version = "1.0.1";
+        public const string Version = "1.0.2";
 
         static Installer()
         {
