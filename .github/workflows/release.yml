@@ -162,6 +162,7 @@ jobs:
           buildName: Non-Drawing-Graphic-Installer
           buildsPath: build
           buildMethod: extensions.unity.nondrawinggraphic.Installer.PackageExporter.ExportPackage
+          allowDirtyBuild: true
           customParameters: -CI true -GITHUB_ACTIONS true
 
       - name: Upload Unity Package as artifact
