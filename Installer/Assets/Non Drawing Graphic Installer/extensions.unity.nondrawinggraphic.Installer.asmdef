@@ -1,0 +1,16 @@
+{
+    "name": "extensions.unity.nondrawinggraphic.Installer",
+    "rootNamespace": "extensions.unity.nondrawinggraphic.Installer",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
